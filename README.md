@@ -10,6 +10,7 @@ RMI uses stub and skeleton object for communication with the remote object.
 
 
 #Start Server
+
 ![image](https://user-images.githubusercontent.com/25382318/180445526-4b3f8b65-cc55-4b1b-b715-aa64e6ec27bd.png)
 
 #Run 1st Sensor Client and Client is started to send data to Server
